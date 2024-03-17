@@ -107,7 +107,6 @@ Each module follows a similar test execution flow:
 **After Class:** Cleanup tasks such as closing the browser.
 
 ## Dependencies
-
 The project uses the following dependencies managed by Maven:
 - **TestNG:** For organizing and executing tests.
 - **JUnit:** For unit testing capabilities.
