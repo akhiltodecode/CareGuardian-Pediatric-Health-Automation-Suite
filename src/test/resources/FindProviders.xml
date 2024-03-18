@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="FindProvidersSuite">
+    <test name="MultipleMethodsTest">
+        <classes>
+            <class name="healthcareProviderSearch">
+                <methods>
+                    <include name="searchCardiologists"/>
+                    <include name="selectProvider"/>
+                    <!-- Add more test methods here -->
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="ParentsModule">
+    <test name="ForParents_Page_Unittests">
+        <classes>
+            <class name="ForParents">
+            </class>
+        </classes>
+    </test>
+</suite>

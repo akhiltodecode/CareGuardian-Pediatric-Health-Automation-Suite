@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="EducatorsModule">
+    <test name="EducatorsSection_Unittests">
+        <classes>
+            <class name="ForEducators">
+                <methods>
+                    <include name="navigate_Educator_basic"/>
+                    <include name="searchLessonWaterSafety"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="LocationsModule">
+    <test name="LocationsSuite_Unit">
+        <classes>
+            <class name="LocationsContact"/>
+        </classes>
+    </test>
+</suite>
