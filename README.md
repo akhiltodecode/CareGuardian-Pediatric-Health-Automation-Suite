@@ -1,5 +1,5 @@
 # CareGuardian-Pediatric-Health-Automation-Suite
-CareGuardian is a comprehensive automation suite designed for testing pediatric healthcare websites. Powered by Selenium, Junit, TestNG &amp; Maven, it ensures the seamless functioning of critical functionalities, enhancing the digital experience for both parents and educators.
+CareGuardian is a comprehensive automation suite designed for testing pediatric healthcare websites. Powered by Selenium, Junit, TestNG &amp; Maven, it ensures the seamless functioning of features, enhancing the digital experience for both patients and educators.
 It leverages TestNG, JUnit, Selenium, and Maven for dependency management and test automation. The project focuses on testing various modules of the healthcare website, covering functionalities relevant to parents, educators, location searches, home page navigation, finding providers, and more.
 
 Please Note: This project is a work in progress and contains modules that are yet to be implemented. However, it provides an overview of the power of Selenium with TestNG and JUnit for various types of testing scenarios.
